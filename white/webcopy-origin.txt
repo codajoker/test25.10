@@ -1,0 +1,1168 @@
+Uri: https://fonts.googleapis.com/css?family=Lato
+File Name: D:\site\testovoe\www.toode.ee\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C700%2C900%2C300%2C100|Lobster:regular|Abril+Fatface:italic&subset=latin%2Clatin-ext&ver=4.3.3
+File Name: D:\site\testovoe\www.toode.ee\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lobster/v28/neILzCirqoswsqX9zoymNg.ttf
+File Name: D:\site\testovoe\www.toode.ee\s\lobster\v28\neILzCirqoswsqX9zoymNg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxGIzc.ttf
+File Name: D:\site\testovoe\www.toode.ee\s\roboto\v30\KFOkCnqEu92Fr1MmgVxGIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc9.ttf
+File Name: D:\site\testovoe\www.toode.ee\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fChc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc9.ttf
+File Name: D:\site\testovoe\www.toode.ee\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfChc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfChc9.ttf
+File Name: D:\site\testovoe\www.toode.ee\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfChc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxP.ttf
+File Name: D:\site\testovoe\www.toode.ee\s\roboto\v30\KFOmCnqEu92Fr1Mu7GxP.ttf
+Content Type: font/ttf
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyBSI0IqsbQZ0u50YuBiKycMUlRx4jJv2b0&callback=initMaps&ver=f689a21f4743328575253eed3949ecbe
+File Name: D:\site\testovoe\www.toode.ee\maps\api\js
+Content Type: text/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css?ver=4.4.0
+File Name: D:\site\testovoe\www.toode.ee\font-awesome\4.4.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.eot?
+File Name: D:\site\testovoe\www.toode.ee\font-awesome\4.4.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.eot?v=4.4.0
+File Name: D:\site\testovoe\www.toode.ee\font-awesome\4.4.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.svg?v=4.4.0
+File Name: D:\site\testovoe\www.toode.ee\font-awesome\4.4.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.ttf?v=4.4.0
+File Name: D:\site\testovoe\www.toode.ee\font-awesome\4.4.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.woff2?v=4.4.0
+File Name: D:\site\testovoe\www.toode.ee\font-awesome\4.4.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.woff?v=4.4.0
+File Name: D:\site\testovoe\www.toode.ee\font-awesome\4.4.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/css/all.css?ver=f689a21f4743328575253eed3949ecbe
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-brands-400.eot
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-brands-400.eot?
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-brands-400.svg
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-brands-400.ttf
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-brands-400.woff
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-brands-400.woff2
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-regular-400.eot
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-regular-400.eot?
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-regular-400.svg
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-regular-400.ttf
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-regular-400.woff
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-regular-400.woff2
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-solid-900.eot
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-solid-900.eot?
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-solid-900.svg
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-solid-900.ttf
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-solid-900.woff
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.14.0/webfonts/fa-solid-900.woff2
+File Name: D:\site\testovoe\www.toode.ee\releases\v5.14.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.facebook.com/tr?id=240869733624903&ev=PageView&noscript=1
+File Name: D:\site\testovoe\www.toode.ee\tr
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=452170632718750&ev=PageView&noscript=1
+File Name: D:\site\testovoe\www.toode.ee\tr-1
+Content Type: text/plain
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: D:\site\testovoe\www.toode.ee\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?render=6Lc5B4wUAAAAACRbsPS0Hxb0xFd2q3kp5b6-b5Ui&ver=3.0
+File Name: D:\site\testovoe\www.toode.ee\recaptcha\api-1.js
+Content Type: text/javascript
+
+Uri: https://www.toode.ee/
+File Name: D:\site\testovoe\www.toode.ee\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/comments/feed/
+File Name: D:\site\testovoe\www.toode.ee\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.toode.ee/en/
+File Name: D:\site\testovoe\www.toode.ee\en\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/en/about-the-company/
+File Name: D:\site\testovoe\www.toode.ee\en\about-the-company\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/en/ask-for-a-price/
+File Name: D:\site\testovoe\www.toode.ee\en\ask-for-a-price\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/en/base-material/
+File Name: D:\site\testovoe\www.toode.ee\en\base-material\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/en/comments/feed/
+File Name: D:\site\testovoe\www.toode.ee\en\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.toode.ee/en/contacts/
+File Name: D:\site\testovoe\www.toode.ee\en\contacts\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/en/feed/
+File Name: D:\site\testovoe\www.toode.ee\en\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.toode.ee/en/gallery/
+File Name: D:\site\testovoe\www.toode.ee\en\gallery\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/en/inquiry-cart/
+File Name: D:\site\testovoe\www.toode.ee\en\inquiry-cart\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/en/products/
+File Name: D:\site\testovoe\www.toode.ee\en\products\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/en/products/accessories/
+File Name: D:\site\testovoe\www.toode.ee\en\products\accessories\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/en/products/corrugated-roofing-sheets-and-wall-cladding-sheets/
+File Name: D:\site\testovoe\www.toode.ee\en\products\corrugated-roofing-sheets-and-wall-cladding-sheets\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/en/products/rainwater-system/
+File Name: D:\site\testovoe\www.toode.ee\en\products\rainwater-system\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/en/technical-information/
+File Name: D:\site\testovoe\www.toode.ee\en\technical-information\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/en/technical-information/installation/
+File Name: D:\site\testovoe\www.toode.ee\en\technical-information\installation\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/en/wp-json/
+File Name: D:\site\testovoe\www.toode.ee\en\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.toode.ee/feed/
+File Name: D:\site\testovoe\www.toode.ee\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.toode.ee/fi/
+File Name: D:\site\testovoe\www.toode.ee\fi\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/fi/comments/feed/
+File Name: D:\site\testovoe\www.toode.ee\fi\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.toode.ee/fi/feed/
+File Name: D:\site\testovoe\www.toode.ee\fi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.toode.ee/fi/huolto-ohjeet/
+File Name: D:\site\testovoe\www.toode.ee\fi\huolto-ohjeet\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/fi/huolto-ohjeet/asennusohjeet/
+File Name: D:\site\testovoe\www.toode.ee\fi\huolto-ohjeet\asennusohjeet\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/fi/kysy-hintatarjousta/
+File Name: D:\site\testovoe\www.toode.ee\fi\kysy-hintatarjousta\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/fi/pinnoitteita-ja-varikartta/
+File Name: D:\site\testovoe\www.toode.ee\fi\pinnoitteita-ja-varikartta\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/fi/tuotteemme-ja-palvelumme/
+File Name: D:\site\testovoe\www.toode.ee\fi\tuotteemme-ja-palvelumme\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/fi/tuotteemme-ja-palvelumme/katto-ja-peiteprofiilit/
+File Name: D:\site\testovoe\www.toode.ee\fi\tuotteemme-ja-palvelumme\katto-ja-peiteprofiilit\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/fi/tuotteemme-ja-palvelumme/sadevesijarjestelmat/
+File Name: D:\site\testovoe\www.toode.ee\fi\tuotteemme-ja-palvelumme\sadevesijarjestelmat\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/fi/tuotteemme-ja-palvelumme/tarvikkeet/
+File Name: D:\site\testovoe\www.toode.ee\fi\tuotteemme-ja-palvelumme\tarvikkeet\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/fi/wp-json/
+File Name: D:\site\testovoe\www.toode.ee\fi\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.toode.ee/fi/yhteystiedot/
+File Name: D:\site\testovoe\www.toode.ee\fi\yhteystiedot\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/fi/yritys/
+File Name: D:\site\testovoe\www.toode.ee\fi\yritys\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/firmast/
+File Name: D:\site\testovoe\www.toode.ee\firmast\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/galerii/pildigalerii/
+File Name: D:\site\testovoe\www.toode.ee\galerii\pildigalerii\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/hinnaparing/
+File Name: D:\site\testovoe\www.toode.ee\hinnaparing\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/jarelmaks
+File Name: D:\site\testovoe\www.toode.ee\jarelmaks.html
+Content Type: text/html
+
+Uri: https://www.toode.ee/juhendid/
+File Name: D:\site\testovoe\www.toode.ee\juhendid\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/juhendid/garantiitingimused/
+File Name: D:\site\testovoe\www.toode.ee\juhendid\garantiitingimused\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/juhendid/paigaldusjuhised/
+File Name: D:\site\testovoe\www.toode.ee\juhendid\paigaldusjuhised\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/juhendid/tellija-meelespea/
+File Name: D:\site\testovoe\www.toode.ee\juhendid\tellija-meelespea\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/juhendid/toimivusdeklaratsioonid/
+File Name: D:\site\testovoe\www.toode.ee\juhendid\toimivusdeklaratsioonid\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/kontaktid/
+File Name: D:\site\testovoe\www.toode.ee\kontaktid\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/lt/
+File Name: D:\site\testovoe\www.toode.ee\lt\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/lt/comments/feed/
+File Name: D:\site\testovoe\www.toode.ee\lt\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.toode.ee/lt/feed/
+File Name: D:\site\testovoe\www.toode.ee\lt\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.toode.ee/lt/wp-json/
+File Name: D:\site\testovoe\www.toode.ee\lt\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.toode.ee/lv/
+File Name: D:\site\testovoe\www.toode.ee\lv\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/lv/comments/feed/
+File Name: D:\site\testovoe\www.toode.ee\lv\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.toode.ee/lv/feed/
+File Name: D:\site\testovoe\www.toode.ee\lv\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.toode.ee/lv/wp-json/
+File Name: D:\site\testovoe\www.toode.ee\lv\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.toode.ee/paringukorv/
+File Name: D:\site\testovoe\www.toode.ee\paringukorv\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/pinnakatted-varvikaart/
+File Name: D:\site\testovoe\www.toode.ee\pinnakatted-varvikaart\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/pinnakatted-varvikaart/varvikaart/
+File Name: D:\site\testovoe\www.toode.ee\pinnakatted-varvikaart\varvikaart\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/projekteerijale-bim/
+File Name: D:\site\testovoe\www.toode.ee\projekteerijale-bim\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/
+File Name: D:\site\testovoe\www.toode.ee\ru\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/базовый-материал/
+File Name: D:\site\testovoe\www.toode.ee\ru\базовый-материал\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/контакты/
+File Name: D:\site\testovoe\www.toode.ee\ru\контакты\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/о-фирме/
+File Name: D:\site\testovoe\www.toode.ee\ru\о-фирме\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/продукция-и-услуги/
+File Name: D:\site\testovoe\www.toode.ee\ru\продукция-и-услуги\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/продукция-и-услуги/водосточные-системы/
+File Name: D:\site\testovoe\www.toode.ee\ru\продукция-и-услуги\водосточные-системы\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/продукция-и-услуги/дополнительные-детали/
+File Name: D:\site\testovoe\www.toode.ee\ru\продукция-и-услуги\дополнительные-детали\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/продукция-и-услуги/кровельные-и-покровные-профили/
+File Name: D:\site\testovoe\www.toode.ee\ru\продукция-и-услуги\кровельные-и-покровные-профили\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/спросить-ценовое-предложение/
+File Name: D:\site\testovoe\www.toode.ee\ru\спросить-ценовое-предложение\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/техническая-информация/
+File Name: D:\site\testovoe\www.toode.ee\ru\техническая-информация\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/техническая-информация/монтаж/
+File Name: D:\site\testovoe\www.toode.ee\ru\техническая-информация\монтаж\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/фотогалерея/
+File Name: D:\site\testovoe\www.toode.ee\ru\фотогалерея\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/comments/feed/
+File Name: D:\site\testovoe\www.toode.ee\ru\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.toode.ee/ru/feed/
+File Name: D:\site\testovoe\www.toode.ee\ru\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.toode.ee/ru/uudised/аксессуары-для-крыши/
+File Name: D:\site\testovoe\www.toode.ee\ru\uudised\аксессуары-для-крыши\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/uudised/жесть-практичный-материал-для-крыши/
+File Name: D:\site\testovoe\www.toode.ee\ru\uudised\жесть-практичный-материал-для-крыши\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/uudised/какие-технические-риски-существуют-п/
+File Name: D:\site\testovoe\www.toode.ee\ru\uudised\какие-технические-риски-существуют-п\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/uudised/как-заказать-хорошую-крышу-для-дома/
+File Name: D:\site\testovoe\www.toode.ee\ru\uudised\как-заказать-хорошую-крышу-для-дома\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/uudised/от-шапки-на-дымоход-до-церковных-флюге/
+File Name: D:\site\testovoe\www.toode.ee\ru\uudised\от-шапки-на-дымоход-до-церковных-флюге\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/uudised/познакомьтесь-с-нашим-мастерством-в-р/
+File Name: D:\site\testovoe\www.toode.ee\ru\uudised\познакомьтесь-с-нашим-мастерством-в-р\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/uudised/работа-жестянщика-это-искусство/
+File Name: D:\site\testovoe\www.toode.ee\ru\uudised\работа-жестянщика-это-искусство\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/uudised/реклама-2/
+File Name: D:\site\testovoe\www.toode.ee\ru\uudised\реклама-2\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/uudised/реклама/
+File Name: D:\site\testovoe\www.toode.ee\ru\uudised\реклама\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/uudised/современная-классика-профильный-ли/
+File Name: D:\site\testovoe\www.toode.ee\ru\uudised\современная-классика-профильный-ли\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/uudised/17770/
+File Name: D:\site\testovoe\www.toode.ee\ru\uudised\17770\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/ru/wp-json/
+File Name: D:\site\testovoe\www.toode.ee\ru\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.toode.ee/tootekataloog/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/dripstop/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\dripstop\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/fassaadikatted/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\fassaadikatted\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/katuseprofiilid-ja-katteprofiilid/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\katuseprofiilid-ja-katteprofiilid\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/katuste-pesu-ja-hooldus/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\katuste-pesu-ja-hooldus\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/lisaplekid-ja-kasiplekitood/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\lisaplekid-ja-kasiplekitood\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/lisatarvikud/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\lisatarvikud\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/paikesepaneelide-kinnitused/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\paikesepaneelide-kinnitused\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/piksekaitse/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\piksekaitse\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/plekist-eritooted/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\plekist-eritooted\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/plekitooriistad/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\plekitooriistad\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/printech-profiilid/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\printech-profiilid\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/raketissusteem-jl-antura/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\raketissusteem-jl-antura\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/rennide-katted/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\rennide-katted\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/roto-katuseaknad/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\roto-katuseaknad\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/sileplekk/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\sileplekk\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/solar/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\solar\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/soundcontrol/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\soundcontrol\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/teenused/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\teenused\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/terasroovid/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\terasroovid\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/titaantsink/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\titaantsink\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/velux-katuseaknad/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\velux-katuseaknad\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/tootekataloog/vihmaveesusteemid/
+File Name: D:\site\testovoe\www.toode.ee\tootekataloog\vihmaveesusteemid\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudised/13713/
+File Name: D:\site\testovoe\www.toode.ee\uudised\13713\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudised/16331/
+File Name: D:\site\testovoe\www.toode.ee\uudised\16331\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudised/as-toode-on-ssab-greencoat-partnerliige-baltikumis/
+File Name: D:\site\testovoe\www.toode.ee\uudised\as-toode-on-ssab-greencoat-partnerliige-baltikumis\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudised/klassik-katusekatte-lumetokete-uus-kinnituslahendus/
+File Name: D:\site\testovoe\www.toode.ee\uudised\klassik-katusekatte-lumetokete-uus-kinnituslahendus\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudised/kuidas-tellida-kodule-hea-katus/
+File Name: D:\site\testovoe\www.toode.ee\uudised\kuidas-tellida-kodule-hea-katus\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudised/kujunda-oma-katus-ise/
+File Name: D:\site\testovoe\www.toode.ee\uudised\kujunda-oma-katus-ise\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudised/lumi-katusel-teeb-liiga-2/
+File Name: D:\site\testovoe\www.toode.ee\uudised\lumi-katusel-teeb-liiga-2\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudised/maailma-parimad-katused-selgunud/
+File Name: D:\site\testovoe\www.toode.ee\uudised\maailma-parimad-katused-selgunud\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudised/matt-ja-kvaliteetne-katus-2/
+File Name: D:\site\testovoe\www.toode.ee\uudised\matt-ja-kvaliteetne-katus-2\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudised/olulist-vihmaveesusteemidest/
+File Name: D:\site\testovoe\www.toode.ee\uudised\olulist-vihmaveesusteemidest\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudised/tehniline-uuendus-klassiku-raastaga/
+File Name: D:\site\testovoe\www.toode.ee\uudised\tehniline-uuendus-klassiku-raastaga\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudised/toode-solar-paigalda-paikesepaneelid-koos-katusetoodega/
+File Name: D:\site\testovoe\www.toode.ee\uudised\toode-solar-paigalda-paikesepaneelid-koos-katusetoodega\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudised/turvatoodete-kinnituslahendused-kivikatustele/
+File Name: D:\site\testovoe\www.toode.ee\uudised\turvatoodete-kinnituslahendused-kivikatustele\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudised/turvatunnet-katusel-vajavad-nii-korstnapuhkija-kui-majaomanik/
+File Name: D:\site\testovoe\www.toode.ee\uudised\turvatunnet-katusel-vajavad-nii-korstnapuhkija-kui-majaomanik\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudised/tuulemura-teraskatusel-on-ajalugu/
+File Name: D:\site\testovoe\www.toode.ee\uudised\tuulemura-teraskatusel-on-ajalugu\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudiste-arhiiv/
+File Name: D:\site\testovoe\www.toode.ee\uudiste-arhiiv\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudiste-arhiiv/page/10/
+File Name: D:\site\testovoe\www.toode.ee\uudiste-arhiiv\page\10\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudiste-arhiiv/page/12/
+File Name: D:\site\testovoe\www.toode.ee\uudiste-arhiiv\page\12\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudiste-arhiiv/page/2/
+File Name: D:\site\testovoe\www.toode.ee\uudiste-arhiiv\page\2\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudiste-arhiiv/page/3/
+File Name: D:\site\testovoe\www.toode.ee\uudiste-arhiiv\page\3\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudiste-arhiiv/page/4/
+File Name: D:\site\testovoe\www.toode.ee\uudiste-arhiiv\page\4\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/uudiste-arhiiv/page/5/
+File Name: D:\site\testovoe\www.toode.ee\uudiste-arhiiv\page\5\index.htm
+Content Type: text/html
+
+Uri: https://www.toode.ee/wp-content/cache/minify/2bac0.default.include-body.8a5cef.js
+File Name: D:\site\testovoe\www.toode.ee\wp-content\cache\minify\2bac0.default.include-body.8a5cef.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/cache/minify/2bac0.default.include.c71941.css
+File Name: D:\site\testovoe\www.toode.ee\wp-content\cache\minify\2bac0.default.include.c71941.css
+Content Type: text/css
+
+Uri: https://www.toode.ee/wp-content/cache/minify/2bac0.default.include.dde6fa.js
+File Name: D:\site\testovoe\www.toode.ee\wp-content\cache\minify\2bac0.default.include.dde6fa.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/plugins/buttonizer-multifunctional-button/assets/frontend.css?v=0d6d4ea27ce38df173b212905adda522&ver=f689a21f4743328575253eed3949ecbe
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\buttonizer-multifunctional-button\assets\frontend.css
+Content Type: text/css
+
+Uri: https://www.toode.ee/wp-content/plugins/buttonizer-multifunctional-button/assets/frontend.min.js?v=0d6d4ea27ce38df173b212905adda522&ver=f689a21f4743328575253eed3949ecbe
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\buttonizer-multifunctional-button\assets\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/plugins/contact-form-7/assets/ajax-loader.gif
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\contact-form-7\assets\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.toode.ee/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://www.toode.ee/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/plugins/contact-form-7/modules/recaptcha/script.js?ver=5.3.2
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\contact-form-7\modules\recaptcha\script.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/plugins/motopress-slider-lite/motoslider_core/images/bullet.svg?ver=2.1.0
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\motopress-slider-lite\motoslider_core\images\bullet.svg
+Content Type: image/svg+xml
+
+Uri: https://www.toode.ee/wp-content/plugins/motopress-slider-lite/motoslider_core/images/grab.svg?ver=2.1.0
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\motopress-slider-lite\motoslider_core\images\grab.svg
+Content Type: image/svg+xml
+
+Uri: https://www.toode.ee/wp-content/plugins/motopress-slider-lite/motoslider_core/images/grabbing.svg?ver=2.1.0
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\motopress-slider-lite\motoslider_core\images\grabbing.svg
+Content Type: image/svg+xml
+
+Uri: https://www.toode.ee/wp-content/plugins/motopress-slider-lite/motoslider_core/images/gridtile.png?ver=2.1.0
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\motopress-slider-lite\motoslider_core\images\gridtile.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/plugins/motopress-slider-lite/motoslider_core/images/gridtile_3x3.png?ver=2.1.0
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\motopress-slider-lite\motoslider_core\images\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/plugins/motopress-slider-lite/motoslider_core/images/gridtile_3x3_white.png?ver=2.1.0
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\motopress-slider-lite\motoslider_core\images\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/plugins/motopress-slider-lite/motoslider_core/images/gridtile_white.png?ver=2.1.0
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\motopress-slider-lite\motoslider_core\images\gridtile_white.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/plugins/motopress-slider-lite/motoslider_core/images/next.svg?ver=2.1.0
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\motopress-slider-lite\motoslider_core\images\next.svg
+Content Type: image/svg+xml
+
+Uri: https://www.toode.ee/wp-content/plugins/motopress-slider-lite/motoslider_core/images/pause.svg?ver=2.1.0
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\motopress-slider-lite\motoslider_core\images\pause.svg
+Content Type: image/svg+xml
+
+Uri: https://www.toode.ee/wp-content/plugins/motopress-slider-lite/motoslider_core/images/play.svg?ver=2.1.0
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\motopress-slider-lite\motoslider_core\images\play.svg
+Content Type: image/svg+xml
+
+Uri: https://www.toode.ee/wp-content/plugins/motopress-slider-lite/motoslider_core/images/play_button.png?ver=2.1.0
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\motopress-slider-lite\motoslider_core\images\play_button.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/plugins/motopress-slider-lite/motoslider_core/images/play_button_mobile.png?ver=2.1.0
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\motopress-slider-lite\motoslider_core\images\play_button_mobile.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/plugins/motopress-slider-lite/motoslider_core/images/prev.svg?ver=2.1.0
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\motopress-slider-lite\motoslider_core\images\prev.svg
+Content Type: image/svg+xml
+
+Uri: https://www.toode.ee/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/script.js?ver=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\sitepress-multilingual-cms\templates\language-switchers\legacy-dropdown\script.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/style.css?ver=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\sitepress-multilingual-cms\templates\language-switchers\legacy-dropdown\style.css
+Content Type: text/css
+
+Uri: https://www.toode.ee/wp-content/plugins/ultimate-faqs/assets/css/jquery-ui.min.css?ver=f689a21f4743328575253eed3949ecbe
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\ultimate-faqs\assets\css\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://www.toode.ee/wp-content/plugins/ultimate-faqs/assets/css/rrssb-min.css?ver=f689a21f4743328575253eed3949ecbe
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\ultimate-faqs\assets\css\rrssb-min.css
+Content Type: text/css
+
+Uri: https://www.toode.ee/wp-content/plugins/wp-google-maps/wpgmza_data.js?ver=f689a21f4743328575253eed3949ecbe
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\wp-google-maps\wpgmza_data.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/plugins/wp-popups-lite/src/assets/css/wppopups-base.css?ver=2.1.4.1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\wp-popups-lite\src\assets\css\wppopups-base.css
+Content Type: text/css
+
+Uri: https://www.toode.ee/wp-content/plugins/wp-popups-lite/src/assets/js/wppopups.js?ver=2.1.4.1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\wp-popups-lite\src\assets\js\wppopups.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.5.5
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\wpml-cms-nav\res\css\cms-navigation-base.css
+Content Type: text/css
+
+Uri: https://www.toode.ee/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.5.5
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\wpml-cms-nav\res\css\cms-navigation.css
+Content Type: text/css
+
+Uri: https://www.toode.ee/wp-content/plugins/wpml-cms-nav/res/img/cms-nav-dark-s.gif
+File Name: D:\site\testovoe\www.toode.ee\wp-content\plugins\wpml-cms-nav\res\img\cms-nav-dark-s.gif
+Content Type: image/gif
+
+Uri: https://www.toode.ee/wp-content/themes/cherryframework4/lib/assets/js/cherry-api.min.js?ver=4.0.4
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\cherryframework4\lib\assets\js\cherry-api.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/themes/cherryframework4/lib/assets/js/jquery.magnific-popup.min.js?ver=1.0.0
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\cherryframework4\lib\assets\js\jquery.magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/themes/toode/css/custom.css
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\css\custom.css
+Content Type: text/css
+
+Uri: https://www.toode.ee/wp-content/themes/toode/css/jquery.fancybox-1.3.4.css
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\css\jquery.fancybox-1.3.4.css
+Content Type: text/css
+
+Uri: https://www.toode.ee/wp-content/themes/toode/css/owl.carousel.css
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/askquote_ee.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\askquote_ee.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/askquote_en.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\askquote_en.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/askquote_fi.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\askquote_fi.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/askquote_ru.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\askquote_ru.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/fancybox/blank.gif
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/fancybox/fancybox-x.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\fancybox\fancybox-x.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/fancybox/fancybox-y.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\fancybox\fancybox-y.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/fancybox/fancybox.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\fancybox\fancybox.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/fancybox/fancy_title_over.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\fancybox\fancy_title_over.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/klassik-korvekyla1.jpg
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\klassik-korvekyla1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/loading-small.gif
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\loading-small.gif
+Content Type: image/gif
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/logo.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\logo.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/mail.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\mail.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/print.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\print.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/request_ee.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\request_ee.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/request_en.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\request_en.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/request_ru.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\request_ru.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/search_button.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\search_button.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/images/solar_btn.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\images\solar_btn.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/js/cherry-shortcodes/device.min.js?ver=1.0.6.1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\js\cherry-shortcodes\device.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/themes/toode/js/cherry-shortcodes/init.min.js?ver=1.0.6.1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\js\cherry-shortcodes\init.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/themes/toode/js/cherry-shortcodes/parallax.min.js?ver=1.0.6.1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\js\cherry-shortcodes\parallax.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/themes/toode/js/cherry-shortcodes/swiper.jquery.min.js?ver=1.0.6.1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\js\cherry-shortcodes\swiper.jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/themes/toode/js/custom.js
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\js\custom.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/themes/toode/js/jquery/jquery.fancybox-1.3.4.pack.js
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\js\jquery\jquery.fancybox-1.3.4.pack.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/themes/toode/js/jquery/jquery.mousewheel-3.0.4.pack.js
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\js\jquery\jquery.mousewheel-3.0.4.pack.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/themes/toode/js/owl.carousel.min.js
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\js\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2015/12/P1085453.jpg&w=150&h=150&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-28.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/02/Avaleht01.jpg&w=370&h=318&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/02/lisatarvikud.jpg&w=370&h=318&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-2.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/02/vihmaveesysteemid.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-4.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/02/vihmaveesysteemid.jpg&w=370&h=318&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-1.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/03/phoca_thumb_l_p4063914_m.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-6.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/03/tooted-katusepesu.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-24.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/03/tooted-piksekaitse.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-22.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/03/tooted-rennikatted.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-21.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/03/tooted-roovid.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-12.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/04/20160322_124305_RichtoneHDR_resized.jpg&w=150&h=150&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-27.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/04/clip_image002-1.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-17.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/04/IMGM7306.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-16.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/04/IMG_9799-3.jpg&w=150&h=150&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-35.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/04/klassTPkiviRR33-copy.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-3.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/04/lumisildredel5.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-5.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/04/rzn031.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-15.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/05/DSC_1393slide.jpg&w=150&h=150&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-34.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/05/slide04-1.jpg&w=150&h=150&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-30.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2016/06/toodeknoobus01.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-11.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2017/04/raketisring.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-23.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2017/06/IMGM6873.jpg&w=150&h=150&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-26.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2019/05/116271-01-L.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-14.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2019/05/2058_1.png&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-19.php
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2019/05/IMG_8683web.png&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-7.php
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2019/05/paiagdlus.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-20.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2019/05/RotoR79sv.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-13.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2020/10/IMG_5542.jpg&w=150&h=150&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-32.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2020/11/IMGM6894-scaled.jpg&w=150&h=150&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-25.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2021/01/lumetoru_holder1-copy.jpg&w=150&h=150&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-36.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2021/04/thumblisaplekk.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-8.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2021/04/Thumbnailsolar01.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-9.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2021/04/thumbsolar02.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-10.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2021/04/thumbsound.jpg&w=200&h=190&zc=1&q=100
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-18.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2021/05/pilt003-scaled.jpg&w=150&h=150&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-33.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2021/06/lapetikkaan-porras.jpg&w=150&h=150&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-39.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2021/09/2021-09-09_15h24_15.jpg&w=150&h=150&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-29.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2021/10/IMGL2656.jpg&w=150&h=150&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-38.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2021/11/greencoat-green-logo.jpeg&w=150&h=150&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-37.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/themes/toode/timthumb.php?src=https://www.toode.ee/wp-content/uploads/2022/06/lt-tavaroov.jpg&w=150&h=150&zc=1
+File Name: D:\site\testovoe\www.toode.ee\wp-content\themes\toode\timthumb-31.php
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/uploads/2016/03/garantii3050-300x187.jpg
+File Name: D:\site\testovoe\www.toode.ee\wp-content\uploads\2016\03\garantii3050-300x187.jpg
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/uploads/2016/03/garantii3050.jpg
+File Name: D:\site\testovoe\www.toode.ee\wp-content\uploads\2016\03\garantii3050.jpg
+Content Type: image/jpeg
+
+Uri: https://www.toode.ee/wp-content/uploads/2020/11/cropped-favicon-180x180.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\uploads\2020\11\cropped-favicon-180x180.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/uploads/2020/11/cropped-favicon-192x192.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\uploads\2020\11\cropped-favicon-192x192.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/uploads/2020/11/cropped-favicon-32x32.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\uploads\2020\11\cropped-favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-content/uploads/2021/05/li-doc.png
+File Name: D:\site\testovoe\www.toode.ee\wp-content\uploads\2021\05\li-doc.png
+Content Type: image/png
+
+Uri: https://www.toode.ee/wp-includes/css/dist/block-library/style.min.css?ver=f689a21f4743328575253eed3949ecbe
+File Name: D:\site\testovoe\www.toode.ee\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.toode.ee/wp-includes/js/dist/hooks.min.js?ver=63769290dead574c40a54748f22ada71
+File Name: D:\site\testovoe\www.toode.ee\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4
+File Name: D:\site\testovoe\www.toode.ee\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-includes/js/wp-embed.min.js?ver=f689a21f4743328575253eed3949ecbe
+File Name: D:\site\testovoe\www.toode.ee\wp-includes\js\wp-embed.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.toode.ee/wp-includes/wlwmanifest.xml
+File Name: D:\site\testovoe\www.toode.ee\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.toode.ee/wp-json/
+File Name: D:\site\testovoe\www.toode.ee\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.toode.ee/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.toode.ee%2Fparingukorv%2F
+File Name: D:\site\testovoe\www.toode.ee\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.toode.ee/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.toode.ee%2Fparingukorv%2F&format=xml
+File Name: D:\site\testovoe\www.toode.ee\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.toode.ee/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.toode.ee%2Ftootekataloog%2F
+File Name: D:\site\testovoe\www.toode.ee\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.toode.ee/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.toode.ee%2Ftootekataloog%2F&format=xml
+File Name: D:\site\testovoe\www.toode.ee\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.toode.ee/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.toode.ee%2Fuudiste-arhiiv%2F
+File Name: D:\site\testovoe\www.toode.ee\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.toode.ee/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.toode.ee%2Fuudiste-arhiiv%2F&format=xml
+File Name: D:\site\testovoe\www.toode.ee\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.toode.ee/wp-json/wp/v2/pages/13063
+File Name: D:\site\testovoe\www.toode.ee\wp-json\wp\v2\pages\13063
+Content Type: application/json
+
+Uri: https://www.toode.ee/wp-json/wp/v2/pages/6522
+File Name: D:\site\testovoe\www.toode.ee\wp-json\wp\v2\pages\6522
+Content Type: application/json
+
+Uri: https://www.toode.ee/wp-json/wp/v2/pages/80
+File Name: D:\site\testovoe\www.toode.ee\wp-json\wp\v2\pages\80
+Content Type: application/json
+
+Uri: https://www.toode.ee/wp-json/wp/v2/pages/84
+File Name: D:\site\testovoe\www.toode.ee\wp-json\wp\v2\pages\84
+Content Type: application/json
+
+Uri: https://www.toode.ee/xmlrpc.php?rsd
+File Name: D:\site\testovoe\www.toode.ee\xmlrpc.php
+Content Type: text/xml
+
