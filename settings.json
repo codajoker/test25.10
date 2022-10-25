@@ -1,0 +1,253 @@
+{
+    "white": {
+        "action": "folder",
+        "folder": {
+            "names": [
+                "white"
+            ]
+        },
+        "redirect": {
+            "type": "303",
+            "urls": [
+                "https://ya.ru",
+                "https://google.com"
+            ]
+        },
+        "curl": {
+            "urls": [
+                "https://www.9111.ru/"
+            ]
+        },
+        "error": {
+            "codes": []
+        },
+        "domainfilter": {
+            "use": false,
+            "domains": [
+                {
+                    "name": "lalala.xxx.com",
+                    "action": "site:white"
+                },
+                {
+                    "name": "lamama.xxx.com",
+                    "action": "site:white"
+                }
+            ]
+        },
+        "jschecks": {
+            "enabled": false,
+            "events": [
+                "devicemotion",
+                "deviceorientation",
+                "timezone"
+            ],
+            "timeout": "20000",
+            "obfuscate": true,
+            "timezone": true,
+            "tzstart": "1",
+            "tzend": "4"
+        }
+    },
+    "black": {
+        "prelanding": {
+            "action": "none",
+            "folders": [
+                "preland"
+            ],
+            "redirect": {
+                "urls": [
+                    "https://ya.ru",
+                    "https://google.com"
+                ],
+                "type": 302
+            }
+        },
+        "landing": {
+            "action": "folder",
+            "folder": {
+                "names": [
+                    "land"
+                ],
+                "conversions": {
+                    "script": "order.php",
+                    "logonbuttonclick": false
+                },
+                "customthankyoupage": {
+                    "use": true,
+                    "language": "RU",
+                    "upsell": {
+                        "use": false,
+                        "imgdir": "img",
+                        "header": "This is a header!",
+                        "text": "This is a text!",
+                        "url": "http://ya.ru"
+                    }
+                }
+            },
+            "redirect": {
+                "urls": [
+                    "https://irishmiracle.onelink.me/oc2P?af_xp=social&pid=tt&c=sub1%25dep4lab%25sub2%25SUB2%25sub3%25SUB3%25sub4%25364%25sub5%2515%25sub6%25SUB6%25sub7%25SUB7&deep_link_value=app%3A%2F%2F%3Fsub1%3Ddep4lab%26sub2%3DSUB2%26sub3%3DSUB3%26sub4%3D364%26sub5%3D15%26sub6%3DSUB6"
+                ],
+                "type": "303"
+            }
+        },
+        "jsconnect": "replace"
+    },
+    "pixels": {
+        "ya": {
+            "id": ""
+        },
+        "gtm": {
+            "id": ""
+        },
+        "fb": {
+            "subname": "px",
+            "pageview": true,
+            "viewcontent": {
+                "use": false,
+                "time": "30",
+                "percent": "75"
+            },
+            "conversion": {
+                "event": "Purchase",
+                "fireonbutton": false
+            }
+        },
+        "tt": {
+            "subname": "tpx",
+            "pageview": true,
+            "viewcontent": {
+                "use": true,
+                "time": "30",
+                "percent": "75"
+            },
+            "conversion": {
+                "event": "Purchase",
+                "fireonbutton": false
+            }
+        }
+    },
+    "tds": {
+        "mode": "on",
+        "saveuserflow": true,
+        "filters": {
+            "allowed": {
+                "countries": [],
+                "os": [],
+                "inurl": [
+                    "lang=ru",
+                    "user=true"
+                ],
+                "languages": []
+            },
+            "blocked": {
+                "ips": {
+                    "filename": "blackbase.txt",
+                    "cidrformat": false
+                },
+                "tokens": [],
+                "useragents": [
+                    "facebook",
+                    "Facebot",
+                    "curl",
+                    "gce-spider",
+                    "yandex.com/bots",
+                    "OdklBot"
+                ],
+                "isps": [
+                    "facebook",
+                    "google",
+                    "yandex",
+                    "amazon",
+                    "azure",
+                    "digitalocean",
+                    "microsoft"
+                ],
+                "referer": {
+                    "empty": false,
+                    "stopwords": []
+                },
+                "vpntor": false
+            }
+        }
+    },
+    "scripts": {
+        "back": {
+            "action": "off",
+            "value": "https://ya.ru"
+        },
+        "disabletextcopy": false,
+        "prelandingreplace": {
+            "use": false,
+            "url": "https://ya.ru"
+        },
+        "landingreplace": {
+            "use": false,
+            "url": "https://ya.ru"
+        },
+        "phonemask": {
+            "use": false,
+            "mask": "+7(\\\\999)999-99-99"
+        },
+        "comebacker": false,
+        "callbacker": false,
+        "addedtocart": false,
+        "imageslazyload": true
+    },
+    "subids": [
+        {
+            "name": "dep4lab",
+            "rewrite": "sub1"
+        },
+        {
+            "name": "adn",
+            "rewrite": "sub2"
+        },
+        {
+            "name": "ad",
+            "rewrite": "sub3"
+        },
+        {
+            "name": "364",
+            "rewrite": "sub4"
+        },
+        {
+            "name": "15",
+            "rewrite": "sub5"
+        }
+    ],
+    "statistics": {
+        "password": "12345",
+        "subnames": [
+            {
+                "name": "adn",
+                "value": "Adset"
+            },
+            {
+                "name": "ad",
+                "value": "Creative"
+            },
+            {
+                "name": "pl",
+                "value": "Placement"
+            }
+        ],
+        "timezone": "Europe/Moscow"
+    },
+    "postback": {
+        "lead": "Lead",
+        "purchase": "Purchase",
+        "reject": "Reject",
+        "trash": "Trash",
+        "s2s": [
+            {
+                "url": "",
+                "method": "POST",
+                "events": [
+                    "Lead",
+                    "Purchase"
+                ]
+            }
+        ]
+    }
+}
